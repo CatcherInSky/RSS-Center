@@ -28,5 +28,7 @@ pixiv
 
 （自己整些小游戏上去）
 
+### 技术选型
+TypeScript Node.js PhoneGap？Cordova？
 
 
