@@ -29,6 +29,8 @@ pixiv
 （自己整些小游戏上去）
 
 ### 技术选型
-TypeScript Node.js PhoneGap？Cordova？
+TypeScript Node.js SPA-PWA 适配（平板 pc 移动端） APP Shell
+
+https://zhuanlan.zhihu.com/p/27853228
 
 
